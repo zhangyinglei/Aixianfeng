@@ -1,0 +1,45 @@
+.maintop{
+    width: 100%;
+    height: 610px;
+    background: #fff;
+    padding-top: 110px;
+}
+.aboutlogo{
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+}
+.aboutlogo h1{
+    width: 100%;
+    font-size: 24px;
+    padding-top: 228px;
+    text-align: center;
+    background: url("http://m.beequick.cn/static/bee/img/m/about_logo-79b15593.png") no-repeat center top;
+}
+.aboutlogo p{
+    display: inline-block;
+    font-size: 24px;
+    height: 60px;
+    padding-left: 80px;
+    line-height: 60px;
+    width: 280px;
+    background: url("http://m.beequick.cn/static/bee/img/m/about_weixin-81473699.png") no-repeat center left;
+    background-size: contain;
+}
+.aboutfooter{
+    width: 100%;
+    margin-top: 30px;
+    font-size: 24px;
+    text-align: center;
+}
+.aboutfooter .p1{
+    font-weight: 800;
+    line-height: 48px;
+}
+.aboutfooter .p2,.aboutfooter .p3{
+    color: #999;
+    line-height: 48px;
+}
+.aboutfooter .p3{
+    margin-top: 120px;
+}

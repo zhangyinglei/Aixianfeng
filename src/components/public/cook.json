@@ -1,0 +1,106 @@
+{
+  "data":[{
+    "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/2622/20170526222949_582818.jpg@355w_355h_90Q",
+    "goodsname":" 冰镇「雪碧零卡」清爽柠檬味汽水",
+    "goodsWeight":"500ml",
+    "product-price":"￥3.5",
+    "product-btn":"立即购买",
+    "goodsID":"150",
+    "goods-number":"1"
+  },{
+    "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/0623/20170506233037_136434.jpg@355w_355h_90Q",
+    "goodsname":"  冰镇「怡泉」干姜水",
+    "goodsWeight":"500ml",
+    "product-price":"￥4",
+    "product-btn":"立即购买",
+    "goodsID":"151",
+    "goods-number":"1"
+  },{
+    "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/2622/20170526222949_582818.jpg@355w_355h_90Q",
+    "goodsname":" 冰镇「雪碧零卡」清爽柠檬味汽水",
+    "goodsWeight":"500ml",
+    "product-price":"￥3.5",
+    "product-btn":"立即购买",
+    "goodsID":"152",
+    "goods-number":"1"
+  },{
+    "imgurl":"http://img01.bqstatic.com/upload/goods/000/001/5447/0000015447_59790.jpg@355w_355h_90Q",
+    "goodsname":"  冰镇北冰洋桔汁汽水",
+    "goodsWeight":"330ml",
+    "product-price":"￥5",
+    "product-btn":"立即购买",
+    "goodsID":"153",
+    "goods-number":"1"
+  },
+    {
+      "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/2622/20170526222949_582818.jpg@355w_355h_90Q",
+      "goodsname":" 冰镇「雪碧零卡」清爽柠檬味汽水",
+      "goodsWeight":"500ml",
+      "product-price":"￥3.5",
+      "product-btn":"立即购买",
+      "goodsID":"150",
+      "goods-number":"1"
+    },
+    {
+      "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/0623/20170506233037_136434.jpg@355w_355h_90Q",
+      "goodsname":"  冰镇「怡泉」干姜水",
+      "goodsWeight":"500ml",
+      "product-price":"￥4",
+      "product-btn":"立即购买",
+      "goodsID":"151",
+      "goods-number":"1"
+    },{
+      "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/2622/20170526222949_582818.jpg@355w_355h_90Q",
+      "goodsname":" 冰镇「雪碧零卡」清爽柠檬味汽水",
+      "goodsWeight":"500ml",
+      "product-price":"￥3.5",
+      "product-btn":"立即购买",
+      "goodsID":"152",
+      "goods-number":"1"
+    },
+    {
+      "imgurl":"http://img01.bqstatic.com/upload/goods/000/001/5447/0000015447_59790.jpg@355w_355h_90Q",
+      "goodsname":"  冰镇北冰洋桔汁汽水",
+      "goodsWeight":"330ml",
+      "product-price":"￥5",
+      "product-btn":"立即购买",
+      "goodsID":"153",
+      "goods-number":"1"
+    },
+    {
+      "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/0623/20170506233037_136434.jpg@355w_355h_90Q",
+      "goodsname":"  冰镇「怡泉」干姜水",
+      "goodsWeight":"500ml",
+      "product-price":"￥4",
+      "product-btn":"立即购买",
+      "goodsID":"151",
+      "goods-number":"1"
+    },{
+      "imgurl":"http://img01.bqstatic.com/upload/goods/201/705/2622/20170526222949_582818.jpg@355w_355h_90Q",
+      "goodsname":" 冰镇「雪碧零卡」清爽柠檬味汽水",
+      "goodsWeight":"500ml",
+      "product-price":"￥3.5",
+      "product-btn":"立即购买",
+      "goodsID":"152",
+      "goods-number":"1"
+    }
+    ],
+  "goodsCook":[{
+    "imgurl":"http://img01.bqstatic.com/upload/goods/201/605/2516/20160525162209_448693.jpg@355w_355h_90Q",
+    "goodsname":" 冰镇农夫山泉茶π柚子绿茶",
+    "goodsWeight":"500ml",
+    "product-price":"￥6",
+    "product-btn":"购买",
+    "goodsID":"153",
+    "goods-number":"1"
+  },
+    {
+      "imgurl":"http://img01.bqstatic.com/upload/goods/000/000/2199/0000002199_97980.jpg@355w_355h_90Q",
+      "goodsname":" 冰镇加多宝凉茶金罐",
+      "goodsWeight":"310ml ",
+      "product-price":"￥5",
+      "product-btn":"购买",
+      "goodsID":"154",
+      "goods-number":"1"
+    }]
+}

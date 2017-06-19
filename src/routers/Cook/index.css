@@ -1,0 +1,126 @@
+.content {
+    padding-top: 110px;
+    background-color: cornflowerblue;
+}
+.nav img{
+    width: 100%;
+}
+.nav1 img{
+    width: 100%;
+    height: 60px;
+}
+.ProductList dl{
+    box-sizing: border-box;
+    margin-left: 30px;
+    float: left;
+    width: 40%;
+    height: 540px;
+    background-color: white;
+    margin: 5%;
+}
+.ProductList  dl dt img{
+ width: 100%;
+    height: 280px;
+}
+.ProductList  dl dd{
+    width: 100%;
+}
+.ProductList  dl dd .goodsname{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.ProductList  dl dd p{
+    font-size: 28px;
+    line-height: 48px;
+}
+.ProductList  dl dd .price{
+    font-size: 30px;
+    color: red;
+}
+.ProductList  dl dd .btn{
+    width: 55%;
+    height: 60px;
+    background-color: #c11328;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 22%;
+}
+.drink .centerl img{
+    width: 100%;
+}
+.drink dl {
+    box-sizing: border-box;
+    margin-left: 30px;
+    float: left;
+    width: 40%;
+    height: 540px;
+    background-color: white;
+    margin: 5%;
+}
+.drink  dl dd{
+    width: 100%;
+}
+.drink dl dd .goodsname{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.drink  dl dd p{
+    font-size: 28px;
+    line-height: 48px;
+}
+.drink  dl dd .price{
+    font-size: 30px;
+    color: red;
+}
+.drink dl dd .btn{
+    width: 55%;
+    height: 60px;
+    background-color: #c11328;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 22%;
+}
+.drink  dl dt img{
+    width: 100%;
+    height: 280px;
+}
+.footer{
+    text-align: center;
+}
+.footer .nav{
+    width: 100%;
+}
+.footer p{
+    padding: 20px 0;
+}
+.footer .globalImg{
+    position: fixed;
+    right:20px;
+    bottom: 40px;
+}
+.footer .globalImg .le{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    top: -20px;
+    right: 0px;
+    text-align: center;
+    border-radius: 10px;
+}
+.footer .globalImg img{
+    width: 80px;
+    height: 80px;
+
+}

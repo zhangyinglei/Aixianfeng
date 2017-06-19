@@ -1,0 +1,82 @@
+.content {
+    padding-top: 110px;
+}
+.nav img{
+    width: 100%;
+}
+.nav1 img{
+    width: 100%;
+    height: 60px;
+}
+.content .productlsit dl{
+    overflow: hidden;
+    margin: 20px;
+    margin-top: 0;
+    background-color: white;
+    height: 300px;
+    position: relative;
+}
+.content .productlsit  dt{
+    float: left;
+}
+.content .productlsit dd{
+    margin-top: 40px;
+    float: left;
+    margin-left: 30px;
+    width: 316px;
+}
+.content .productlsit  img{
+    width: 250px;
+    height: 250px;
+}
+.content .productlsit  p{
+    font-size: 26px;
+    padding: 10px 0;
+}
+.content .productlsit .price{
+    color: red;
+    font-size: 28px;
+    font-style: italic;
+}
+.content .productlsit .inner{
+    background-color: #c11328;
+    width: 188px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 40px;
+    text-align: center;
+    color: white;
+    margin-left: 40px;
+}
+.content .productlsit .discount{
+    width: 170px;
+    height: 20px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+    transform: rotate(-45deg);
+    background-color: red;
+    position: absolute;
+    left: -40px;
+    top:18px;
+}
+.footer .imging img{
+    width: 100%;
+    height: 64px;
+}
+.footer  .rules{
+    padding-bottom: 120px;
+}
+.footer  .rules p{
+    line-height: 35px;
+    padding: 15px 80px;
+    font-size: 24px;
+}
+.footer .globalImg img{
+    width: 80px;
+    height: 80px;
+    position: fixed;
+    right:20px;
+    bottom: 40px;
+}
+

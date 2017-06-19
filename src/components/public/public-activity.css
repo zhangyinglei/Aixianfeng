@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+}
+img{
+    border:none;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.header{
+    width: 100%;
+    height: 110px;
+    display: flex;
+    position: fixed;
+    top:0;
+    left:0;
+    background-color: white;
+    text-align: center;
+    line-height: 110px;
+    background-color: #f9fafd;
+    z-index: 100;
+}
+.headerBtn{
+    float: left;
+    width: 80px;
+    font-size: 50px;
+}
+.headerTit{
+    flex: 1;
+    float: left;
+}

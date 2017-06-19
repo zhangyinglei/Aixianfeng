@@ -1,0 +1,170 @@
+*{
+    margin:0;
+    padding: 0;
+}
+img{
+    border:none;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/*.header{
+    width: 100%;
+    height: 110px;
+    display: flex;
+    position: fixed;
+    top:0;
+    left:0;
+    background-color: white;
+    text-align: center;
+    line-height: 110px;
+    background-color: #f9fafd;
+}
+.headerBtn{
+    float: left;
+    width: 80px;
+    font-size: 50px;
+}
+.headerTit{
+    flex: 1;
+    float: left;
+}*/
+.content {
+    padding-top: 110px;
+}
+.nav li:nth-child(1) img{
+    width: 100%;
+    height: 320px;
+}
+.nav li:nth-child(2) img{
+    width: 100%;
+    height: 64px;
+}
+.nav dl{
+    margin: 20px;
+    margin-top: 0;
+    background-color: white;
+    height: 360px;
+}
+.nav dt{
+    float: left;
+}
+.nav dd{
+    margin-top: 40px;
+    float: left;
+    margin-left: 30px;
+    width: 316px;
+}
+.nav dt img{
+    width: 250px;
+    height: 250px;
+}
+.nav dd p{
+    font-size: 24px;
+    padding: 10px 0;
+}
+.nav dd .nprice{
+    font-size: 30px;
+    color:#ff9700 ;
+}
+.nav .img2 img{
+    width: 100%;
+    height: 64px;
+}
+.nav dd i{
+    color: #797879;
+}
+.nav .buy {
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    border: 1px solid #ff9700;
+    width: 188px;
+    height: 56px;
+    line-height: 56px;
+    background-color: #ff9700;
+    border-radius: 28px;
+    margin-left:40px;
+    color: white;
+}
+.nav .img2{
+    width: 100%;
+    height: 64px;
+}
+.productList dl{
+    float: left;
+    width: 33%;
+    height: 360px;
+    box-sizing: border-box;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+.productList dl dt img{
+    width: 100%;
+}
+.productList dl dd p{
+    font-size: 24px;
+    color:#777
+}
+.productList dl dd .goodsname{
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.productList dl dd .goodsprice{
+    text-align: right;
+    padding: 5px;
+    color: #ff9700;
+}
+.productList dl dd .btn{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    background-color: #ff9700;
+    padding: 10px 0;
+    color: white;
+}
+.productList dl dt img{
+    width: 150px;
+    height: 200px;
+}
+
+.footer .imging img{
+    width: 100%;
+    height: 64px;
+}
+.footer  .rules{
+    background-color:#ffd600;
+    padding-bottom: 120px;
+}
+.footer  .rules p{
+    line-height: 35px;
+    padding: 15px 80px;
+    font-size: 24px;
+}
+.footer .globalImg{
+    position: fixed;
+    right:20px;
+    bottom: 40px;
+}
+.footer .globalImg .le{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    top: -20px;
+    right: 0px;
+    text-align: center;
+    border-radius: 10px;
+}
+.footer .globalImg img{
+    width: 80px;
+    height: 80px;
+
+}

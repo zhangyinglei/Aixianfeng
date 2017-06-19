@@ -1,0 +1,40 @@
+.dizhi{
+    width: 100%;
+    background: #fff;
+    margin-top: 140px;
+}
+.dizhi li{
+    height: 140px;
+    padding: 30px;
+    border-bottom: 1px solid #333;
+}
+.dizhi li p{
+    width: 100%;
+    height: 66px;
+    font-size: 26px;
+}
+.dizhi li .p1 span:nth-child(1){
+    padding-right: 20px;
+}
+.dizhi li .p2{
+    color: #999;
+}
+.footer{
+    width: 100%;
+    height: 120px;
+    background: #fff;
+    position: fixed;
+    border-top: 1px solid #ccc;
+    left:0;
+    bottom: 0;
+}
+.footer a{
+    width: 380px;
+    height: 88px;
+    margin: 15px auto 0;
+    display: block;
+    background: #FFD600;
+    text-align: center;
+    line-height: 88px;
+    border-radius: 10px;
+}

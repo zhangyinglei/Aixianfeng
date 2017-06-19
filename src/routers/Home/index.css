@@ -1,0 +1,182 @@
+.myCarousel img{
+    width: 100%;
+}
+.nav1{
+    width: 100%;
+    height: 152px;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.nav1 dl{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.nav1 dd{
+    font-size: 24px;
+}
+.nav1 img {
+    /*width: 100px;*/
+}
+.nav2 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.nav2 img{
+    width: 33%;
+}
+.nav3{
+    height: 550px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.nav3 .top1 img{
+    width: 100%;
+}
+.nav3 .center1 ul{
+    display: flex;
+    justify-content: space-around;
+}
+.nav3 .center1 ul li img{
+    width: 290px;
+    height: 110px;
+}
+.nav3 .center2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+}
+.nav3 .center2 dl{
+    float:left;
+    text-align: center;
+}
+.nav3 .center2 dd{
+    font-size: 24px;
+}
+.nav3 .center3 li{
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+.nav3 .center3 li img{
+   width: 100%;
+}
+
+.productIntr{
+    height: 680px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.productIntr .head1{
+    display: flex;
+    justify-content: space-between;
+    padding: 28px 24px;
+    font-size: 28px;
+}
+.productIntr .head1 .fruitname span{
+    display: inline-block;
+    width: 22px;
+    height: 26px;
+    background-color: #F38631;
+    margin: 0 10px;
+}
+.productIntr .head1 .fruitname1 span{
+    background-color: #20B1FA;
+}
+.productIntr .head1 .fruitname2 span{
+    background-color: #7B4D03;
+}
+.productIntr .head1 .fruitname3 span{
+    background-color: #E80013;
+}
+.productIntr .head1 .fruitname4 span{
+    background-color: #E80013;
+}
+.productIntr .head1 .fruitname5 span{
+    background-color: #1EB2A3;
+}
+.productIntr .head1  .more{
+    color: #999;
+    font-size: 24px;
+}
+.productIntr .head1 .fruitname{
+    color: #F38631;
+}
+.productIntr .head1 .fruitname1{
+    color: #20B1FA;
+}
+.productIntr .head1 .fruitname2{
+    color: #7B4D03;
+}
+.productIntr .head1 .fruitname3{
+    color:#E80013;
+}
+.productIntr .head1 .fruitname4{
+    color: #E80013;
+}
+.productIntr .head1 .fruitname5{
+    color: #1EB2A3;
+}
+.productIntr .fruitcontent .fimg img{
+    width: 100%;
+}
+.productIntr .fruitcontent .goods dl{
+    width: 33%;
+    float: left;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+}
+.productIntr .fruitcontent .goods dd{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 24px;
+}
+.productIntr .fruitcontent .goods .tag{
+    width: 70px;
+    height: 34px;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: red;
+    font-size: 24px;
+    text-align: center;
+    line-height: 34px;
+    margin: 10px 0;
+}
+.productIntr .fruitcontent .goods .box{
+    font-size: 24px;
+    color: #999;
+}
+.productIntr .fruitcontent .goods .gprice{
+    padding: 10px 0;
+    font-size: 24px;
+    color: #999;
+    position: relative;
+}
+.productIntr .fruitcontent .goods .nprice{
+    color: red;
+}
+.productIntr .fruitcontent .goods .dprice{
+    text-decoration: line-through;
+}
+.productIntr .fruitcontent .goods .inner{
+    position: absolute;
+    right: 0;
+    top:0;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border: 1px solid red;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+    color: red;
+    font-size: 60px;
+    background-color: white;
+}

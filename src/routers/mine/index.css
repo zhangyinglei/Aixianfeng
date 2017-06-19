@@ -1,0 +1,69 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.mineTop{
+    width: 100%;
+    height: 328px;
+    background: #FFD600;
+    color: #fff;
+    position: fixed;
+    top:0;
+    left: 0;
+    z-index: 10;
+}
+.mylist{
+    padding: 348px 0 20px;
+}
+.dingdan{
+    height: 120px;
+}
+.my{
+    height: 240px;
+    color: #fff;
+    background: #FFD600;
+}
+.shoucang{
+    width: 100%;
+    height: 88px;
+    line-height: 88px;
+    background: #F3C800;
+}
+.shoucang p{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.tuichu{
+    width: 100%;
+    height: 110px;
+    background: #fff;
+    text-align: center;
+    line-height: 110px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+.caidan{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    background: #fff;
+}
+.caidan a{
+    text-align: center;
+    width: 25%;
+    height: 240px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.caidan a li img{
+    width: 50px;
+}
+.caidan a li p{
+    margin-top: 20px;
+    color: #1f1f1f;
+}

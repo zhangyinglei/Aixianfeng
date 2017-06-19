@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+}
+
+li{
+    list-style: none;
+}
+.settleHeader{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 114px;
+    border-bottom: 1px solid #ccc;
+    background: #F9FAFD;
+}
+.header{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+ .headerBtn{
+    width: 104px;
+    line-height: 114px;
+    text-align: center;
+    font-size:80px ;
+    color: #999;
+}
+ .headerTit{
+    flex: 1;
+    line-height: 114px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+.settleContent {
+    padding-top: 114px;
+    padding-bottom:116px ;
+    height: 100%;
+}
+.payway{
+    height: 380px;
+    background: #fff;
+    padding-left:36px ;
+    margin-bottom: 22px;
+}
+.payway li{
+    padding: 24px 0;
+}
+ .payTit{
+    font-size: 24px;
+    color: #999;
+    font-weight: bold;
+}
+ .payItem{
+    border-top:1px solid #ccc;
+    display: flex;
+}
+.payItem img{
+    width:50px ;
+    height: 50px;
+}
+ .payTxt{
+    flex: 1;
+    margin-left: 30px;
+    font-size: 26px;
+    line-height: 50px;
+}
+.checked{
+    margin-right:40px ;
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    text-align: center;
+    line-height: 48px;
+    background: #FFCC00;
+    color: #fff;
+    display: none;
+
+}
+.checked.active{
+    display: block;
+}
+.goodsList{
+    margin-top: 22px;
+    background: #fff;
+    padding-left: 36px;
+}
+.goodsList li{
+    padding: 24px 0;
+
+}
+ .goods-tit{
+    font-size: 24px;
+    font-weight: bold;
+    color: #999;
+}
+ .goodsItem{
+    border-top: 1px solid #ccc;
+    position: relative;
+    font-size: 26px;
+}
+ .price{
+    position: absolute;
+    right: 40px;
+}
+ .num{
+    position: absolute;
+    right:110px;
+}
+.total{
+    padding-left: 36px;
+    margin-top: 22px;
+    background: #fff;
+    margin-bottom: 22px;
+}
+.total li{
+    padding: 24px 0;
+}
+ .totalTit{
+    font-size: 24px;
+    font-weight: bold;
+    color: #999;
+    border-bottom: 1px solid #ccc;
+}
+ .totalItem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 26px;
+}
+ .totalItem span{
+    margin-right: 40px;
+}
+.settleFooter{
+    width: 100%;
+    height: 116px;
+    position: fixed;
+    bottom: 0;
+    border-top: 1px solid #ccc;
+    background: #fff;
+}
+.settleInfo{
+    float: left;
+    line-height: 116px;
+    width: 286px;
+    padding-left: 36px;
+    font-size: 28px;
+}
+ .sure{
+    width: 240px ;
+    height: 116px;
+    line-height: 116px;
+    float:right;
+    background: #FFD600;
+    text-align: center;
+    font-size: 28px;
+}

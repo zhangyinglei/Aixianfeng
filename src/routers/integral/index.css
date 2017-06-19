@@ -1,0 +1,107 @@
+.integralPage .title{
+    border-bottom: 1px solid #000;
+    background: #F9FAFD;
+    box-sizing: border-box;
+    height: 110px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+.integralPage .am-navbar-left-icon{
+    color: #000;
+}
+.integralPage .am-navbar-title{
+    font-size: 30px;
+}
+.integralPage .box{
+    width: 100%;
+    height: 326px;
+    background: #fff;
+    overflow: hidden;
+    padding-top: 110px;
+}
+.integralPage .waiyuan{
+    width: 200px;
+    height: 200px;
+    border: 36px solid #ddd;
+    border-radius:50% ;
+    margin: 27px auto;
+}
+.integralPage .neiyuan{
+    width: 172px;
+    height: 172px;
+    border: 14px solid #ccc;
+    border-radius:50% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.integralPage .neiyuan p{
+    margin: 0 auto;
+    color: #999;
+}
+.integralPage .list{
+    width: 100%;
+    height: 156px;
+    background: #fff;
+}
+.integralPage .list li{
+    color: #999;
+    width: 33%;
+    float: left;
+    height: 156px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 26px;
+    border-top: 1px solid #4D4D4D;
+    border-right: 1px solid #4D4D4D;
+}
+.integralPage .list li:nth-child(3){
+    border-right: 0;
+}
+.integralPage .youhui{
+    width: 100%;
+
+    margin-top: 30px;
+}
+.integralPage .youhui li{
+    float: left;
+    width: 50%;
+    background: #fff no-repeat;
+    background-image:url('http://img01.bqstatic.com//upload/activity/2016121914354613.jpg@300w_300h_90Q.jpg');
+    height: 300px;
+    font-size: 26px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #4D4D4D;
+    border-right: 1px solid #4D4D4D;
+    position: relative;
+}
+.integralPage .youhui li:nth-child(2){
+    border-right: 0;
+    background-image:url('http://img01.bqstatic.com//upload/activity/201612191435563.jpg@300w_300h_90Q.jpg');
+}
+.integralPage .youhui li:nth-child(3){
+    background-image:url('http://img01.bqstatic.com//upload/activity/2016121914360827.jpg@300w_300h_90Q.jpg');
+}
+.integralPage .youhui li:nth-child(4){
+    border-right: 0;
+    background-image:url('http://img01.bqstatic.com//upload/activity/2016121914361893.jpg@300w_300h_90Q.jpg');
+}
+.integralPage .youhui li .dw{
+    position: absolute;
+    left: 0;
+    bottom: 5px;
+}
+.integralPage .youhui li p{
+    padding: 5px 30px;
+}
+.integralPage .youhui li .red{
+    color: red;
+}
+li{
+    list-style: none;
+}
